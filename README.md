@@ -2,14 +2,17 @@
 
 Demo vedio link:https://drive.google.com/file/d/1_pRvw6dU5UsatDvIjz6SyjYfEpPkLpeB/view?usp=sharing
 
+TEAM :-13
 
 Team Members:
+
 1)Vunnam Lakshmi Sai Rama Krishna
+
 2)Kamalika
+
 3)Subiksha
 
-Title : team 13 
-Blog Creator app 
+Title : Blog Creator app 
 
 Application made using:
 Spring Boot, \ Spring Security, \ Spring Data JPA on the backend, \ Angular 7, \ Bootstrap on the frontend.
